@@ -71,6 +71,7 @@ a:hover {
 	color: #0000ffb4;
 } 
 
+<<<<<<< HEAD
 
 body {
   margin: 0;
@@ -403,3 +404,5 @@ a {
   from {background-position: 0% 0;}
   to {background-position: -100% 0;}
 }
+=======
+>>>>>>> f16ed6a7d6a2ff0f606610aef684ae02fd7eb3f8
