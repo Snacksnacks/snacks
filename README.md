@@ -1,3 +1,2 @@
-# snacks
+Temporary portfolio site
 Shawna Cheng - UX Portfolio [Under Construction]
-Temporary site
